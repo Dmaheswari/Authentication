@@ -21,10 +21,7 @@
 -   🔑 Implementing Login
 -   🏠 Dashboard Page
 -   🔄 Implementing Forgot Password
--   🚀 Super Detailed Deployment
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
-
-### Setup .env file
+- ### Setup .env file
 
 ```bash
 MONGO_URI=your_mongo_uri
@@ -50,4 +47,4 @@ npm run build
 npm run start
 ```
 
-### I'll see you in the next one! 🚀
+
